@@ -1,4 +1,5 @@
 🌍 Dünya Mutluluk Raporu Analizi
+
 Bu proje, ülkelerin mutluluk seviyelerini etkileyen faktörleri (GSYİH, Özgürlük, Yolsuzluk vb.) incelemek amacıyla Python kullanılarak geliştirilmiştir.
 
 🎯 Projenin Amacı
